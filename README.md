@@ -1,0 +1,2 @@
+# Swaraj
+setting up git
